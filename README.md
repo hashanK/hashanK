@@ -3,6 +3,8 @@
 
 :boy: Hi there!, I'm Hashan 👋 
 ------
+
+My name is Hashan Kannangara & i'm a Mobile application developer - Flutter / Former Associate Software Engineer - iOS. I'm from Colombo, Srilanka.
 <!-- Show visit count -->
 <!--[![Visits Badge](https://badges.pufler.dev/visits/hashanK/Food_Hub_flutter)](https://badges.pufler.dev)-->
 
